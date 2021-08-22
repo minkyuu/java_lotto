@@ -11,7 +11,6 @@ public class Application {
         String price = sc.nextLine();
 
         boolean numCheck = isDigit(price);
-
     }
 
     public static boolean isDigit(String number) {
